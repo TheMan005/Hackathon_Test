@@ -1,0 +1,37 @@
+[0.924s] Invoking command in '/home/aditya/turtlebot3_pid_challenge/src/turtlebot3_pid_controller': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/aditya/turtlebot3_pid_challenge/build/turtlebot3_pid_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aditya/turtlebot3_pid_challenge/install/turtlebot3_pid_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlebot3_pid_controller build --build-base /home/aditya/turtlebot3_pid_challenge/build/turtlebot3_pid_controller/build install --record /home/aditya/turtlebot3_pid_challenge/build/turtlebot3_pid_controller/install.log --single-version-externally-managed install_data
+[1.172s] running egg_info
+[1.172s] creating ../../build/turtlebot3_pid_controller/turtlebot3_pid_controller.egg-info
+[1.191s] writing ../../build/turtlebot3_pid_controller/turtlebot3_pid_controller.egg-info/PKG-INFO
+[1.191s] writing dependency_links to ../../build/turtlebot3_pid_controller/turtlebot3_pid_controller.egg-info/dependency_links.txt
+[1.191s] writing entry points to ../../build/turtlebot3_pid_controller/turtlebot3_pid_controller.egg-info/entry_points.txt
+[1.192s] writing requirements to ../../build/turtlebot3_pid_controller/turtlebot3_pid_controller.egg-info/requires.txt
+[1.192s] writing top-level names to ../../build/turtlebot3_pid_controller/turtlebot3_pid_controller.egg-info/top_level.txt
+[1.192s] writing manifest file '../../build/turtlebot3_pid_controller/turtlebot3_pid_controller.egg-info/SOURCES.txt'
+[1.230s] reading manifest file '../../build/turtlebot3_pid_controller/turtlebot3_pid_controller.egg-info/SOURCES.txt'
+[1.230s] writing manifest file '../../build/turtlebot3_pid_controller/turtlebot3_pid_controller.egg-info/SOURCES.txt'
+[1.231s] running build
+[1.231s] running build_py
+[1.231s] creating /home/aditya/turtlebot3_pid_challenge/build/turtlebot3_pid_controller/build
+[1.231s] creating /home/aditya/turtlebot3_pid_challenge/build/turtlebot3_pid_controller/build/lib
+[1.231s] creating /home/aditya/turtlebot3_pid_challenge/build/turtlebot3_pid_controller/build/lib/turtlebot3_pid_controller
+[1.231s] copying turtlebot3_pid_controller/__init__.py -> /home/aditya/turtlebot3_pid_challenge/build/turtlebot3_pid_controller/build/lib/turtlebot3_pid_controller
+[1.231s] copying turtlebot3_pid_controller/pid_controller.py -> /home/aditya/turtlebot3_pid_challenge/build/turtlebot3_pid_controller/build/lib/turtlebot3_pid_controller
+[1.231s] running install
+[1.237s] running install_lib
+[1.256s] creating /home/aditya/turtlebot3_pid_challenge/install/turtlebot3_pid_controller/lib/python3.12/site-packages/turtlebot3_pid_controller
+[1.257s] copying /home/aditya/turtlebot3_pid_challenge/build/turtlebot3_pid_controller/build/lib/turtlebot3_pid_controller/__init__.py -> /home/aditya/turtlebot3_pid_challenge/install/turtlebot3_pid_controller/lib/python3.12/site-packages/turtlebot3_pid_controller
+[1.257s] copying /home/aditya/turtlebot3_pid_challenge/build/turtlebot3_pid_controller/build/lib/turtlebot3_pid_controller/pid_controller.py -> /home/aditya/turtlebot3_pid_challenge/install/turtlebot3_pid_controller/lib/python3.12/site-packages/turtlebot3_pid_controller
+[1.257s] byte-compiling /home/aditya/turtlebot3_pid_challenge/install/turtlebot3_pid_controller/lib/python3.12/site-packages/turtlebot3_pid_controller/__init__.py to __init__.cpython-312.pyc
+[1.257s] byte-compiling /home/aditya/turtlebot3_pid_challenge/install/turtlebot3_pid_controller/lib/python3.12/site-packages/turtlebot3_pid_controller/pid_controller.py to pid_controller.cpython-312.pyc
+[1.258s] running install_data
+[1.258s] creating /home/aditya/turtlebot3_pid_challenge/install/turtlebot3_pid_controller/share/ament_index
+[1.258s] creating /home/aditya/turtlebot3_pid_challenge/install/turtlebot3_pid_controller/share/ament_index/resource_index
+[1.258s] creating /home/aditya/turtlebot3_pid_challenge/install/turtlebot3_pid_controller/share/ament_index/resource_index/packages
+[1.258s] copying resource/turtlebot3_pid_controller -> /home/aditya/turtlebot3_pid_challenge/install/turtlebot3_pid_controller/share/ament_index/resource_index/packages
+[1.258s] copying package.xml -> /home/aditya/turtlebot3_pid_challenge/install/turtlebot3_pid_controller/share/turtlebot3_pid_controller
+[1.258s] running install_egg_info
+[1.279s] Copying ../../build/turtlebot3_pid_controller/turtlebot3_pid_controller.egg-info to /home/aditya/turtlebot3_pid_challenge/install/turtlebot3_pid_controller/lib/python3.12/site-packages/turtlebot3_pid_controller-0.0.0-py3.12.egg-info
+[1.280s] running install_scripts
+[1.408s] Installing pid_controller script to /home/aditya/turtlebot3_pid_challenge/install/turtlebot3_pid_controller/lib/turtlebot3_pid_controller
+[1.408s] writing list of installed files to '/home/aditya/turtlebot3_pid_challenge/build/turtlebot3_pid_controller/install.log'
+[1.446s] Invoked command in '/home/aditya/turtlebot3_pid_challenge/src/turtlebot3_pid_controller' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/aditya/turtlebot3_pid_challenge/build/turtlebot3_pid_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aditya/turtlebot3_pid_challenge/install/turtlebot3_pid_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlebot3_pid_controller build --build-base /home/aditya/turtlebot3_pid_challenge/build/turtlebot3_pid_controller/build install --record /home/aditya/turtlebot3_pid_challenge/build/turtlebot3_pid_controller/install.log --single-version-externally-managed install_data

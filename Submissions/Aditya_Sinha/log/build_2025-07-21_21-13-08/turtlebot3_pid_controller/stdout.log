@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/turtlebot3_pid_controller/turtlebot3_pid_controller.egg-info
+writing ../../build/turtlebot3_pid_controller/turtlebot3_pid_controller.egg-info/PKG-INFO
+writing dependency_links to ../../build/turtlebot3_pid_controller/turtlebot3_pid_controller.egg-info/dependency_links.txt
+writing entry points to ../../build/turtlebot3_pid_controller/turtlebot3_pid_controller.egg-info/entry_points.txt
+writing requirements to ../../build/turtlebot3_pid_controller/turtlebot3_pid_controller.egg-info/requires.txt
+writing top-level names to ../../build/turtlebot3_pid_controller/turtlebot3_pid_controller.egg-info/top_level.txt
+writing manifest file '../../build/turtlebot3_pid_controller/turtlebot3_pid_controller.egg-info/SOURCES.txt'
+reading manifest file '../../build/turtlebot3_pid_controller/turtlebot3_pid_controller.egg-info/SOURCES.txt'
+writing manifest file '../../build/turtlebot3_pid_controller/turtlebot3_pid_controller.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/aditya/turtlebot3_pid_challenge/build/turtlebot3_pid_controller/build
+creating /home/aditya/turtlebot3_pid_challenge/build/turtlebot3_pid_controller/build/lib
+creating /home/aditya/turtlebot3_pid_challenge/build/turtlebot3_pid_controller/build/lib/turtlebot3_pid_controller
+copying turtlebot3_pid_controller/__init__.py -> /home/aditya/turtlebot3_pid_challenge/build/turtlebot3_pid_controller/build/lib/turtlebot3_pid_controller
+copying turtlebot3_pid_controller/pid_controller.py -> /home/aditya/turtlebot3_pid_challenge/build/turtlebot3_pid_controller/build/lib/turtlebot3_pid_controller
+running install
+running install_lib
+creating /home/aditya/turtlebot3_pid_challenge/install/turtlebot3_pid_controller/lib/python3.12/site-packages/turtlebot3_pid_controller
+copying /home/aditya/turtlebot3_pid_challenge/build/turtlebot3_pid_controller/build/lib/turtlebot3_pid_controller/__init__.py -> /home/aditya/turtlebot3_pid_challenge/install/turtlebot3_pid_controller/lib/python3.12/site-packages/turtlebot3_pid_controller
+copying /home/aditya/turtlebot3_pid_challenge/build/turtlebot3_pid_controller/build/lib/turtlebot3_pid_controller/pid_controller.py -> /home/aditya/turtlebot3_pid_challenge/install/turtlebot3_pid_controller/lib/python3.12/site-packages/turtlebot3_pid_controller
+byte-compiling /home/aditya/turtlebot3_pid_challenge/install/turtlebot3_pid_controller/lib/python3.12/site-packages/turtlebot3_pid_controller/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/aditya/turtlebot3_pid_challenge/install/turtlebot3_pid_controller/lib/python3.12/site-packages/turtlebot3_pid_controller/pid_controller.py to pid_controller.cpython-312.pyc
+running install_data
+creating /home/aditya/turtlebot3_pid_challenge/install/turtlebot3_pid_controller/share/ament_index
+creating /home/aditya/turtlebot3_pid_challenge/install/turtlebot3_pid_controller/share/ament_index/resource_index
+creating /home/aditya/turtlebot3_pid_challenge/install/turtlebot3_pid_controller/share/ament_index/resource_index/packages
+copying resource/turtlebot3_pid_controller -> /home/aditya/turtlebot3_pid_challenge/install/turtlebot3_pid_controller/share/ament_index/resource_index/packages
+copying package.xml -> /home/aditya/turtlebot3_pid_challenge/install/turtlebot3_pid_controller/share/turtlebot3_pid_controller
+running install_egg_info
+Copying ../../build/turtlebot3_pid_controller/turtlebot3_pid_controller.egg-info to /home/aditya/turtlebot3_pid_challenge/install/turtlebot3_pid_controller/lib/python3.12/site-packages/turtlebot3_pid_controller-0.0.0-py3.12.egg-info
+running install_scripts
+Installing pid_controller script to /home/aditya/turtlebot3_pid_challenge/install/turtlebot3_pid_controller/lib/turtlebot3_pid_controller
+writing list of installed files to '/home/aditya/turtlebot3_pid_challenge/build/turtlebot3_pid_controller/install.log'

@@ -1,0 +1,2 @@
+[console_scripts]
+pid_controller = turtlebot3_pid_controller.pid_controller:main

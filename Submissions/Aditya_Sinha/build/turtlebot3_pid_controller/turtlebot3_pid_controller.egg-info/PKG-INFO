@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: turtlebot3-pid-controller
+Version: 0.0.0
+Summary: PID controller for TurtleBot3
+Maintainer: aditya
+Maintainer-email: dev.adityasinha2006@gmail.com
+License: MIT
