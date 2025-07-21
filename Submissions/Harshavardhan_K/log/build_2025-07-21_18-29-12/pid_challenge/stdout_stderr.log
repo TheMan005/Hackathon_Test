@@ -1,0 +1,37 @@
+running egg_info
+creating ../../build/pid_challenge/pid_challenge.egg-info
+writing ../../build/pid_challenge/pid_challenge.egg-info/PKG-INFO
+writing dependency_links to ../../build/pid_challenge/pid_challenge.egg-info/dependency_links.txt
+writing entry points to ../../build/pid_challenge/pid_challenge.egg-info/entry_points.txt
+writing requirements to ../../build/pid_challenge/pid_challenge.egg-info/requires.txt
+writing top-level names to ../../build/pid_challenge/pid_challenge.egg-info/top_level.txt
+writing manifest file '../../build/pid_challenge/pid_challenge.egg-info/SOURCES.txt'
+reading manifest file '../../build/pid_challenge/pid_challenge.egg-info/SOURCES.txt'
+writing manifest file '../../build/pid_challenge/pid_challenge.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/mahe/challenge1/build/pid_challenge/build
+creating /home/mahe/challenge1/build/pid_challenge/build/lib
+creating /home/mahe/challenge1/build/pid_challenge/build/lib/pid_challenge
+copying pid_challenge/pid_controller.py -> /home/mahe/challenge1/build/pid_challenge/build/lib/pid_challenge
+copying pid_challenge/__init__.py -> /home/mahe/challenge1/build/pid_challenge/build/lib/pid_challenge
+running install
+running install_lib
+creating /home/mahe/challenge1/install/pid_challenge/lib/python3.10/site-packages/pid_challenge
+copying /home/mahe/challenge1/build/pid_challenge/build/lib/pid_challenge/pid_controller.py -> /home/mahe/challenge1/install/pid_challenge/lib/python3.10/site-packages/pid_challenge
+copying /home/mahe/challenge1/build/pid_challenge/build/lib/pid_challenge/__init__.py -> /home/mahe/challenge1/install/pid_challenge/lib/python3.10/site-packages/pid_challenge
+byte-compiling /home/mahe/challenge1/install/pid_challenge/lib/python3.10/site-packages/pid_challenge/pid_controller.py to pid_controller.cpython-310.pyc
+byte-compiling /home/mahe/challenge1/install/pid_challenge/lib/python3.10/site-packages/pid_challenge/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/mahe/challenge1/install/pid_challenge/share/ament_index
+creating /home/mahe/challenge1/install/pid_challenge/share/ament_index/resource_index
+creating /home/mahe/challenge1/install/pid_challenge/share/ament_index/resource_index/packages
+copying resource/pid_challenge -> /home/mahe/challenge1/install/pid_challenge/share/ament_index/resource_index/packages
+copying package.xml -> /home/mahe/challenge1/install/pid_challenge/share/pid_challenge
+creating /home/mahe/challenge1/install/pid_challenge/share/pid_challenge/launch
+copying launch/pid_launcher.launch.py -> /home/mahe/challenge1/install/pid_challenge/share/pid_challenge/launch
+running install_egg_info
+Copying ../../build/pid_challenge/pid_challenge.egg-info to /home/mahe/challenge1/install/pid_challenge/lib/python3.10/site-packages/pid_challenge-0.0.0-py3.10.egg-info
+running install_scripts
+Installing pid_controller script to /home/mahe/challenge1/install/pid_challenge/lib/pid_challenge
+writing list of installed files to '/home/mahe/challenge1/build/pid_challenge/install.log'

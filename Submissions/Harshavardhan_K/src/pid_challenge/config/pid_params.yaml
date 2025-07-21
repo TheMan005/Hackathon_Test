@@ -1,0 +1,22 @@
+# PID Parameters Configuration
+pid_controller_node:
+  ros__parameters:
+    # Linear PID parameters (will be overridden by ZN if enabled)
+    kp_linear: 0.5
+    ki_linear: 0.0
+    kd_linear: 0.1
+    
+    # Angular PID parameters  
+    kp_angular: 1.0
+    ki_angular: 0.0
+    kd_angular: 0.2
+    
+    # Goal and tolerance parameters
+    goal_x: 1.0
+    goal_y: 0.0
+    distance_tolerance: 0.05
+    waypoint_index: 0
+    
+    # Ziegler-Nichols Auto-Tuning
+    enable_zn_tuning: true      # Set to true to enable auto-tuning
+    zn_target_waypoint: 0       # Which waypoint to use for tuning (0=first, 1=second, etc.)
