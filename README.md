@@ -27,7 +27,7 @@ There exists 4 Folders, 3 with questions from the three domains and 1 for your s
    
     The folder contains a text file which contains a link to a quiz, you will be attempting that quiz. You will have only 1 attempt at the quiz, refrain from copy pasting or switching tabs during the quiz to obtain answers through AI Models (Chat GPT, Perplexity, Claude, Gemini etc.), your test is being monitored, genuinely obtained answers are appreciated than the ones obtained by malpractice.
 
-    After performing the tasks, you will create a folder on your name with all your solutions, it may include the screenshot of your final submiision and any explaination if required in a text document as you wish. You will push your folder into the "Submissions" folder of this repo.
+    After performing the tasks, you will create a folder on your name with all your solutions, it may include the screenshot of your final submission and any explaination if required in a text document as you wish. You will push your folder into the "Submissions" folder of this repo.
 
 
 **IMPORTANT NOTE** :
