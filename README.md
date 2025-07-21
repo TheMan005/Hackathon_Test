@@ -1,7 +1,7 @@
 # Hackathon_Test
 This repo contains all the tests for all the three domains
 
-There exists 4 Folders, 3 with questions from the three domains and 1 for your submissions. Based on your interest take the test.
+There exists 4 Folders, 3 with questions for the three domains and 1 for your submissions. Based on your interest take the test.
 
 1. Automation and Control
 
